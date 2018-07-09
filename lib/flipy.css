@@ -1,0 +1,35 @@
+.flipy {}
+
+.flipy__content {}
+
+.flipy__trigger {
+  align-items: center;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transform: rotate(-135deg);
+  transition-duration: .3s;
+  transition-property: transform;
+}
+
+.flipy__trigger:hover {
+  background-color: rgba(175, 190, 214, .2)
+}
+
+.flipy__trigger::after {
+  border-bottom: 2px solid #0065e1;
+  border-right: 2px solid #0065e1;
+  content: '';
+  height: 8px;
+  position: absolute;
+  width: 8px;
+}
+
+.flipy__trigger--opened {
+  transform: rotate(45deg);
+}
