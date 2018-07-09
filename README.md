@@ -5,7 +5,7 @@
 [![Dependency](https://david-dm.org/wbotelhos/flipy.svg)](https://david-dm.org/wbotelhos/flipy)
 [![Dev Dependency](https://david-dm.org/wbotelhos/flipy/dev-status.svg)](https://david-dm.org/wbotelhos/flipy#info=devDependencies)
 [![Code Climate](https://codeclimate.com/github/wbotelhos/flipy.png)](https://codeclimate.com/github/wbotelhos/flipy)
-[![Support](https://img.shields.io/badge/donate-%3C3-brightgreen.svg)](https://liberapay.com/wbotelhos)
+[![Support](https://img.shields.io/badge/donate-%3C3-brightgreen.svg)](https://www.patreon.com/wbotelhos)
 
 Flipy is an tiny flipy editor to enable a quick ajax update with no need to create a form.
 
