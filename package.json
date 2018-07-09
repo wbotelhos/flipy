@@ -6,6 +6,9 @@
   "contributors": [
     "Washington Botelho <wbotelhos@gmail.com> (http://wbotelhos.com)"
   ],
+  "demos": [
+    "demo/index.html"
+  ],
   "dependencies": {
     "jquery": "^3.3.1"
   },
